@@ -1,0 +1,93 @@
+.st{font-family: 'Times New Roman', Times, serif;
+    font-weight: 500px;
+    font-size:30px;
+    color:black;
+    margin: 20px;
+    padding: 20px;
+    line-height: 2;
+    top: 500px;
+    left: 5px;
+    margin-bottom: 50px;
+}
+.b{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 25px;
+    color:cyan;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2.8;
+    margin: 0px;
+    padding: 0px;
+    background-color: None;
+}
+
+.Sub{
+    text-align:left;
+    text-decoration:wavy;
+    font-size:38px;
+    color:blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1;
+            background-color: gray; 
+            color: lightblue; 
+            margin: 18px;
+            padding: 1px;
+            width: 54px;
+            position: absolute;
+            top: 130px;
+            left: 15px;
+            box-shadow: 0 5px 5px rgba(2, 2, 2, 0.1);
+            border-radius: 10px;
+}
+.b1{
+    text-align:left;
+    text-decoration: wavy;
+    font-size:38px;
+    color:blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1;
+    background-color: gray; 
+    color: lightblue; 
+    margin: 15px;
+    padding: 1px;
+    width:  250px;
+    position: absolute;
+    top: 710px;
+    left: 15px;
+    box-shadow: 0 5px 5px rgba(2, 2, 2, 0.1);
+    border-radius: 10px;
+} 
+body {
+    background-image:url(Balance.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    height: 100vh;
+    margin: 0;
+}
+
+.Ab{
+    background-color: black; 
+    color: white; 
+    margin: 18px;
+    padding: 1px;
+    width: 54px;
+    position: absolute;
+    top: 1060px;
+    left: 15px;
+    box-shadow: 0 5px 5px rgba(2, 2, 2, 0.1);
+    border-radius: 10px;
+}
+.info{
+    background-color: gray; 
+color: white; 
+margin: 18px;
+padding: 1px;
+width: 160px;
+position: absolute;
+top: 1110px;
+left: 20px;
+box-shadow: 0 5px 5px rgba(2, 2, 2, 0.1);
+border-radius: 10px;
+}
